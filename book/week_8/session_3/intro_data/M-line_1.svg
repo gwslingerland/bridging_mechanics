@@ -42,13 +42,13 @@
 			<title>Momentvervormingsteken</title>
 			<path d="M0 120.97 A14.1732 14.1732 0 0 1 14.17 106.79 A14.1732 14.1732 0 0 1 28.35 120.97" class="st3"/>
 		</g>
-		<g id="shape60-16" v:mID="60" v:groupContext="shape" transform="translate(49.7263,-0.12)">
+		<g id="shape60-16" v:mID="60" v:groupContext="shape" transform="translate(46.8917,-0.12)">
 			<title>Punt A.60</title>
-			<desc>30</desc>
+			<desc>37.5</desc>
 			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
-			<v:textRect cx="14.1732" cy="113.881" width="28.35" height="14.1732"/>
-			<rect x="0" y="106.794" width="28.3465" height="14.1732" class="st4"/>
-			<text x="8.17" y="117.48" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>30</text>		</g>
+			<v:textRect cx="17.0079" cy="113.881" width="34.02" height="14.1732"/>
+			<rect x="0" y="106.794" width="34.0157" height="14.1732" class="st4"/>
+			<text x="6.51" y="117.48" class="st5" v:langID="1043"><v:paragraph v:horizAlign="1"/><v:tabList/>37.5</text>		</g>
 		<g id="shape61-19" v:mID="61" v:groupContext="shape" transform="translate(0.12,-99.3326)">
 			<title>Punt A.61</title>
 			<desc>0</desc>
