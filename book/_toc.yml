@@ -9,20 +9,20 @@ parts:
   - file: contact_information
   - url: https://brightspace.tudelft.nl/d2l/home/703722
     title: Brightspace announcements 📢
-- caption: Activities
+- caption: Activities Q1
   chapters:
-  - file: week_1/intro
+  - file: Q1/week_1/intro
     sections:
-    - file: week_1/session_1/intro
-    - file: week_1/session_2/intro
-    - file: week_1/homework_3/intro
-    - file: week_1/session_3/intro
+    - file: Q1/week_1/session_1/intro
+    - file: Q1/week_1/session_2/intro
+    - file: Q1/week_1/homework_3/intro
+    - file: Q1/week_1/session_3/intro
       sections:
-      - file: week_1/session_3/FMM
-  - file: week_2/intro
+      - file: Q1/week_1/session_3/FMM
+  - file: Q1/week_2/intro
     sections:
-    - file: week_2/session_1/intro
-    - file: week_2/homework_2/intro
+    - file: Q1/week_2/session_1/intro
+    - file: Q1/week_2/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/support_internal_forces/model/intro
         sections:
@@ -51,25 +51,25 @@ parts:
       - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/cross_section
-    - file: week_2/session_2/intro
-    - file: week_2/homework_3/intro
+    - file: Q1/week_2/session_2/intro
+    - file: Q1/week_2/homework_3/intro
       sections:
       - file: external/mechanics-BSc/book/support_internal_forces/ode/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/ode/extension
         - file: external/mechanics-BSc/book/support_internal_forces/ode/bending
         - file: external/mechanics-BSc/book/support_internal_forces/ode/cable
-      - file: week_2/homework_3/toc_file_2
+      - file: Q1/week_2/homework_3/toc_file_2
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/ode
       - file: external/mechanics-BSc/book/support_internal_forces/cable/intro
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/cable/equilibrium
         - file: external/mechanics-BSc/book/support_internal_forces/cable/ode
-    - file: week_2/session_3/intro
-  - file: week_3/intro
+    - file: Q1/week_2/session_3/intro
+  - file: Q1/week_3/intro
     sections:
-    - file: week_3/homework_1/intro
+    - file: Q1/week_3/homework_1/intro
       sections:
       - file: external/mechanics-BSc/book/stresses_displacements/model/intro
         sections:
@@ -93,103 +93,117 @@ parts:
       - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/intro
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/ode
-    - file: week_3/session_1/intro
-    - file: week_3/homework_2/intro
+    - file: Q1/week_3/session_1/intro
+    - file: Q1/week_3/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/tools/sympy
       - file: external/mechanics-BSc/book/tools/sympy_mech
-    - file: week_3/session_2/intro
-    - file: week_3/session_3/intro
-  - file: week_4/intro
+    - file: Q1/week_3/session_2/intro
+    - file: Q1/week_3/session_3/intro
+  - file: Q1/week_4/intro
     sections:
-    - file: week_4/homework_1/intro
+    - file: Q1/week_4/homework_1/intro
       sections:
-      - file: week_4/homework_1/copy_2
+      - file: Q1/week_4/homework_1/copy_2
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/model/small_rotations
       - file: external/mechanics-BSc/book/statically_inderminate/determinancy
-      - file: week_4/homework_1/copy_1
+      - file: Q1/week_4/homework_1/copy_1
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/equations
-    - file: week_4/session_1/intro
-    - file: week_4/homework_2/intro
+    - file: Q1/week_4/session_1/intro
+    - file: Q1/week_4/homework_2/intro
       sections:
-      - file: week_4/homework_2/copy_1
+      - file: Q1/week_4/homework_2/copy_1
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_truss/williot
-    - file: week_4/session_2/intro
-    - file: week_4/homework_3/intro
+    - file: Q1/week_4/session_2/intro
+    - file: Q1/week_4/homework_3/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/force_method/force_method
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/extension
-    - file: week_4/session_3/intro
-  - file: week_5/intro
+    - file: Q1/week_4/session_3/intro
+  - file: Q1/week_5/intro
     sections:
-    - file: week_5/session_1/intro
-    - file: week_5/homework_2/intro
+    - file: Q1/week_5/session_1/intro
+    - file: Q1/week_5/homework_2/intro
       sections:
-      - file: week_5/homework_2/copy
+      - file: Q1/week_5/homework_2/copy
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/internal_forces_beam/diagrams
-    - file: week_5/session_2/intro
-    - file: week_5/homework_3/intro
+    - file: Q1/week_5/session_2/intro
+    - file: Q1/week_5/homework_3/intro
       sections:
-      - file: week_5/homework_3/copy
+      - file: Q1/week_5/homework_3/copy
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/displacements_frame/forget-me-nots
-    - file: week_5/session_3/intro
-  - file: week_6/intro
+    - file: Q1/week_5/session_3/intro
+  - file: Q1/week_6/intro
     sections:
-    - file: week_6/homework_1/intro
+    - file: Q1/week_6/homework_1/intro
       sections:
-      - file: week_6/homework_1/copy
+      - file: Q1/week_6/homework_1/copy
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/bending
-    - file: week_6/session_1/intro
-    - file: week_6/homework_2/intro
+    - file: Q1/week_6/session_1/intro
+    - file: Q1/week_6/homework_2/intro
       sections:
-      - file: week_6/homework_2/copy
+      - file: Q1/week_6/homework_2/copy
         sections:
         - file: external/mechanics-BSc/book/support_internal_forces/model/mechanisms
       - file: external/mechanics-BSc/book/support_internal_forces/virtual_work/virtual_work
       - file: external/mechanics-BSc/book/support_internal_forces/solve_virtual_work/solve_virtual_work
-    - file: week_6/session_2/intro
-    - file: week_6/homework_3/intro
+    - file: Q1/week_6/session_2/intro
+    - file: Q1/week_6/homework_3/intro
       sections:
-      - file: week_6/homework_3/copy
+      - file: Q1/week_6/homework_3/copy
         sections:
         - file: external/mechanics-BSc/book/statically_inderminate/force_method/moveable_nodes
-    - file: week_6/session_3/intro
-  - file: week_7/intro
+    - file: Q1/week_6/session_3/intro
+  - file: Q1/week_7/intro
     sections:
-    - file: week_7/session_1/intro
-    - file: week_7/homework_2/intro
+    - file: Q1/week_7/session_1/intro
+    - file: Q1/week_7/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/displacement_method
-    - file: week_7/session_2/intro
-    - file: week_7/session_3/intro
-  - file: week_8/intro
+    - file: Q1/week_7/session_2/intro
+    - file: Q1/week_7/session_3/intro
+  - file: Q1/week_8/intro
     sections:
-    - file: week_8/homework_2/intro
+    - file: Q1/week_8/homework_2/intro
       sections:
       - file: external/mechanics-BSc/book/statically_inderminate/support_settlement
       - file: external/mechanics-BSc/book/statically_inderminate/stiffness_influences
-    - file: week_8/session_2/intro
-    - file: week_8/homework_3/intro
+    - file: Q1/week_8/session_2/intro
+    - file: Q1/week_8/homework_3/intro
       sections:
-      - file: week_8/homework_3/copy
+      - file: Q1/week_8/homework_3/copy
         sections:
         - file: external/mechanics-BSc/book/stresses_displacements/constitutive/temperature
       - file: external/mechanics-BSc/book/stresses_displacements/temperature/temperature
       - file: external/mechanics-BSc/book/statically_inderminate/temperature
         title: Solve statically indeterminate structures subjected to temperature influences
-    - file: week_8/session_3/intro
-  - file: week_10/intro
+    - file: Q1/week_8/session_3/intro
+  - file: Q1/week_10/intro
     sections:
-    - file: week_10/homework/intro
-    - file: week_10/session/intro
-    
+    - file: Q1/week_10/homework/intro
+    - file: Q1/week_10/session/intro
+
+- caption: Activities Q2
+  chapters:
+  - file: Q2/week_1/intro
+    sections:
+    - file: Q2/week_1/session_1/intro
+    - file: Q2/week_1/homework_2/intro
+      sections:
+      - file: Q2/week_1/homework_2/copy
+    - file: Q2/week_1/session_2/intro
+    - file: Q2/week_1/homework_3/intro
+      sections:
+      - file: Q2/week_1/homework_3/copy
+    - file: Q2/week_1/session_3/intro
+
 - caption: Miscellaneous
   chapters:
   - file: changelog
